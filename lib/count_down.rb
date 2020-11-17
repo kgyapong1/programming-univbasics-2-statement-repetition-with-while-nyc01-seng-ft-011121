@@ -7,4 +7,4 @@ while count > 1 do
 
 end
 
-puts "Happy New Year"
+puts "Happy New Year!"
